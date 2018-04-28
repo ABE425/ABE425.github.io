@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:ABE425/ABE425.github.io.git
+	branch = master
